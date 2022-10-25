@@ -1,0 +1,19 @@
+[api]
+address = "0.0.0.0"
+port = 8081
+
+
+[mysql]
+host = "0.0.0.0"
+port = 3306
+account = "root"
+password = "&*XCvfJ234IFV&"
+db = "gochat"
+charset = "utf8mb4"
+
+
+[redis]
+host = "0.0.0.0"
+port = 6379
+password = ""
+db = 10
